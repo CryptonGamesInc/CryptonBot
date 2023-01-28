@@ -1,0 +1,26 @@
+
+
+
+# The main bot's configuration
+BOT = {
+
+    # Discord API config
+    'TOKEN': '', # Your token here
+    'SECRET': '', # Your secret here
+    'BOT ID': 0, # Your bot ID here
+    'PUBLIC KEY': '', # Your bot public key here
+
+    # Bot info config
+    'PREFIX': 'c!',
+    'STATUS': 'c!help',
+
+}
+
+
+# Crypton Games API configuration
+API = {
+
+    # The URL to bot's unique API
+    'URL': 'https://cryptongames.000webhostapp.com/api/v1-rest/cryptonbot',
+
+}
