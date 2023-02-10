@@ -12,3 +12,5 @@ Join us & play together: https://discord.gg/t77AAmfjfm
 - (!) Replaced prefixed commands with slash commands only;
 - Removed help command;
 - Added commands - work, profile, pay, top, set, random;
+#### v0.3.1 beta - 10.02.2023.
+- Algorithms improvements & optimization;
