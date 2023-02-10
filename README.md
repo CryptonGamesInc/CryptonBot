@@ -1,6 +1,5 @@
 # CryptonBot / CryptonWorld RP bot
-Our main RolePlay Discord bot's source code
-Join us & play together: https://discord.gg/t77AAmfjfm
+Our main RolePlay Discord bot's source code. Join us & play together: https://discord.gg/t77AAmfjfm
 
 # Updates:
 ### v0.1 beta - 27.01.2023.
