@@ -13,3 +13,6 @@ Our main RolePlay Discord bot version history. Join us & play together: https://
 - Added commands - work, profile, pay, top, set, random;
 #### v0.3.1 beta - 10.02.2023.
 - Algorithms improvements & optimization;
+### v0.4 beta - 19.02.2023.
+- (!) Added private game slot system;
+- Added commands - carma, start, leave;
