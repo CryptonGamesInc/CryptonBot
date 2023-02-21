@@ -17,5 +17,5 @@ Our main RolePlay Discord bot version history.
 ### v0.4 beta - 19.02.2023.
 - (!) Added private game slot system;
 - Added commands - carma, start, leave;
-### v0.4.1 beta - 20.02.2023.
+#### v0.4.1 beta - 20.02.2023.
 - Added command - embed;
